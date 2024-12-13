@@ -1,0 +1,12 @@
+*{
+    scroll-behavior: smooth;
+}
+
+.card img{
+    height: 80vh;
+    image-rendering: auto;
+    image-orientation: from-image;
+}
+.product_img img{
+    height: 50vh;
+}
